@@ -1,9 +1,13 @@
 # Biomedical NLP Corpus Collection
 
+生物医学领域，自然语言处理相关的数据集，资源收集。
+
 Corpus (datasets) collection about biology and medical NLP, both Chinese and English.
 
-- 信息抽取
-  - 命名实体识别
+***
+
+- [信息抽取](#信息抽取)
+  - [命名实体识别](#命名实体识别)
   - 术语标准化
   - 关系抽取
   - 事件抽取
@@ -23,11 +27,11 @@ Corpus (datasets) collection about biology and medical NLP, both Chinese and Eng
 
 ### 命名实体识别
 
-- #### 2004
+- ###### 2004
   - [BioCreative I Task 1A: Gene Mention Identification](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-i/first-task-gm/)
     
     > focused on the identification of `gene` or `protein` names in running text.
-- #### 2006
+- ###### 2006
   - [BioCreative II Task 1A: Gene Mention Tagging](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-ii/task-1a-gene-mention-tagging/)
     
     > named entity extraction of `gene` and `gene product` mentions in text.
