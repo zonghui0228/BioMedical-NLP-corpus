@@ -108,6 +108,7 @@ Corpus (datasets) collection about biology and medical NLP, both Chinese and Eng
   - [BioCreative VI Track 1: Interactive Bio-ID Assignment (IAT-ID)](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vi/track-1/)
     
     > Bioentity normalization task.
+
     | Bioentity type         | Identifier type       |
     | ---------------------- | --------------------- |
     | gene/gene products     | Entrez/UniProtKB      |
