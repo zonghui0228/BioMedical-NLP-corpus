@@ -59,9 +59,10 @@ Corpus (datasets) collection about biology and medical NLP, both Chinese and Eng
      > **[Data](https://github.com/yhzbit/CNMER/tree/master/data)**
     >
     > 实体包括：`身体部位`、`症状和体征`、`疾病和诊断`、`检查和检验`以及`治疗`。
-    
+  
 - ###### 2018
   - [CHIP 2018 评测一：中文电子病历中临床医疗实体及属性抽取](http://icrc.hitsz.edu.cn/chip2018/Task.html)
+    
     > 从医学影像学检查结果文本描述中提取“肿瘤相关疾病“的常用字段，包括`肿瘤原发位置`，`原发肿瘤大小`，`转移部位`。训练数据：600份影像学检查报告，肺癌，乳腺癌相关。测试数据：200份。
   - [CCKS 2018 面向中文电子病历的命名实体识别](https://www.biendata.xyz/competition/CCKS2018_1/)
     > **[Data](https://github.com/MenglinLu/Chinese-clinical-NER/tree/master/data)**
@@ -105,9 +106,8 @@ Corpus (datasets) collection about biology and medical NLP, both Chinese and Eng
     > link **gene** or **gene products** mentioned in the literature to **standard database identifiers**. However, in this challenge, there are two significant characteristics that make it unique: *1. Instead of using abstracts, full-length articles are provided. 2. Instead of being species-specific, no species information is provided.*
 - ###### 2017
   - [BioCreative VI Track 1: Interactive Bio-ID Assignment (IAT-ID)](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vi/track-1/)
-    > Bioentity normalization task.
->
     
+    > Bioentity normalization task.
     | Bioentity type         | Identifier type       |
     | ---------------------- | --------------------- |
     | gene/gene products     | Entrez/UniProtKB      |
@@ -116,10 +116,11 @@ Corpus (datasets) collection about biology and medical NLP, both Chinese and Eng
     | Cell lines             | Cellosaurus (primary) |
     | Cell types             | Cell Ontology         |
     | Tissues and organs     | Uberon                |
-  | Organism               | NCBI Taxon            |
-  
+    | Organism               | NCBI Taxon            |
+
 - ###### 2019
   - [CHIP 2019 评测一：临床术语标准化任务](http://www.cips-chip.org.cn:8088/evaluation)
+    
     > 主要目标是针对中文电子病历中挖掘出的真实`手术实体`进行语义标准化。给定一手术原词，要求给出其对应的手术标准词。所有手术原词均来自于真实医疗数据，并以《ICD9-2017协和临床版》 手术词表为标准进行了标注。训练集数据量：**4000**条。验证集数据量：**1000**条。测试集数据量：**2000**条。
 ### 关系抽取
 - ###### 2006
@@ -190,14 +191,18 @@ Corpus (datasets) collection about biology and medical NLP, both Chinese and Eng
     
     > The PC task aims to evaluate the applicability of event extraction systems to support the curation, evaluation and maintenance of biomolecular pathway models and to encourage the further development of methods for these tasks.
   - [BioNLP-ST-2013: Bacteria Biotopes (BB)](http://2013.bionlp-st.org/tasks/bacteria-biotopes)
+    
     > Entity recognition of bacteria taxa and bacteria habitats. Bacteria habitat categorization through the OntoBiotope-Habitat ontology. Extraction of localization relations between bacteria and habitats.
 - ###### 2016
   - [BioNLP-ST 2016: Bacteria Biotope-Event extraction of microorganisms and habitats with ontologies and their linking](http://2016.bionlp-st.org/tasks/bb2)
+    
     > Entities: `Bacteria`, `Habitat`, `Geographical`. Events: `Lives_In`.
   - [BioNLP-ST 2016: Event extraction of genetic and molecular mechanisms involved in plant seed development (SeeDev)](http://2016.bionlp-st.org/tasks/seedev)
+    
     > **16** different types of entities. **5** sets of event types that may be combined in complex events.
 - ###### 2019
   - [BioNLP-OST 2019 Seedev Task](https://sites.google.com/view/seedev2019/task-description)
+    
     > the SeeDev representation scheme defines **16 entity types**. task1: Binary relation extraction task. task2: Full event extraction task, these entities participates in **21 types of events** that can be grouped into five categories. 
 ### 共指消解
 - ###### 2011
@@ -233,6 +238,7 @@ Corpus (datasets) collection about biology and medical NLP, both Chinese and Eng
     > focus on **indexing** (identifying which genes are being studied in an article and linking these genes to standard database identifiers) and **gene-oriented document retrieval** (identifying full-text papers relevant to a selected gene).
 - ###### 2019
   - [BioNLP-OST 2019 RDoc Task](https://sites.google.com/view/rdoc-task/task)
+    
     > task1 (RDoC-IR) is on retrieving PubMed Abstracts related to RDoC constructs. **250** abstracts for train and **200** abstracts for test. task 2 (RDoC-SE) is on extracting the most relevant sentences for an RDoC construct from a relevant abstract. **250** abstracts for train and **50** abstracts for test.
 ## 问答系统
 - ###### 2019
