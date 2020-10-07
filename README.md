@@ -1,8 +1,8 @@
 # Biomedical NLP Corpus Collection
 
-生物医学领域，自然语言处理相关的数据集，资源收集。
+生物医学领域，自然语言处理相关的数据集和资源收集。
 
-Corpus (datasets) collection about biology and medical NLP, both Chinese and English.
+Biomedical NLP realeted corpus collection from papers, challenges, and open source, both Chinese and English.
 
 ***
 
