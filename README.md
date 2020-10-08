@@ -155,6 +155,8 @@ Biomedical NLP realeted corpus collection from papers, challenges, and open sour
   - [CHIP 2019 评测一：临床术语标准化任务](http://www.cips-chip.org.cn:8088/evaluation)
     
     > 主要目标是针对中文电子病历中挖掘出的真实`手术实体`进行语义标准化。给定一手术原词，要求给出其对应的手术标准词。所有手术原词均来自于真实医疗数据，并以《ICD9-2017协和临床版》 手术词表为标准进行了标注。训练集数据量：**4000**条。验证集数据量：**1000**条。测试集数据量：**2000**条。
+    >
+    > **解决方案**：[第一名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task1-rank1.pptx)，[第二名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task1-rank2.pptx)，[第三名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task1-rank3.pptx)
     
   - [2019 n2c2 Track 3: n2c2/UMass Track on Clinical Concept Normalization](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2019-t3/)
   
@@ -316,6 +318,8 @@ Biomedical NLP realeted corpus collection from papers, challenges, and open sour
     > 此评测任务的主要目标是针对临床试验筛选标准进行分类，所有预料均来自于真实临床试验，并经过了初步处理和人工标注。给定事先定义好的44种筛选标准类别和一系列中文临床试验筛选标准的描述句子，参赛者需返回每一条筛选标准的具体类别。
     >
     > 训练集：22962；验证集：7682；测试集：7697。
+    >
+    > **解决方案**：[第一名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task3-rank1.pptx)，[第二名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task3-rank2.pptx)，[第三名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task3-rank3.ppt)
 ### 双句相似度分析
 - ###### 2018
   - [CHIP 2018 评测二：平安医疗科技智能患者健康咨询问句匹配大赛](http://icrc.hitsz.edu.cn/chip2018/Task.html)
@@ -330,7 +334,7 @@ Biomedical NLP realeted corpus collection from papers, challenges, and open sour
     >
     > 训练集，数据量分别为：10000，2500，2500，2500，2500。验证集，数据量分别为：2000，2000，2000，2000，2000。测试集，数据量为50000
     >
-    > **解决方案**：[第一名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC1%E5%90%8D-%E5%9F%BA%E4%BA%8EBERT%E4%B8%8E%E6%8F%90%E5%8D%87%E6%A0%91%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%AD%E4%B9%89%E5%8C%B9%E9%85%8D%E6%96%B9%E6%B3%95-wzm.pptx)，[第二名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC2%E5%90%8D-%EF%BC%88upside-down%E5%9B%A2%E9%98%9F%EF%BC%89%E5%B9%B3%E5%AE%89%E5%8C%BB%E7%96%97%E7%A7%91%E6%8A%80%E7%96%BE%E7%97%85%E9%97%AE%E7%AD%94%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E6%AF%94%E8%B5%9B-%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A.pptx)，[第三名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC3%E5%90%8D-CHIPS_%E4%BB%BB%E5%8A%A1%E4%BA%8C_%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A.pptx)
+    > **解决方案**：[第一名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task2-rank1.pptx)，[第二名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task2-rank2.pptx)，[第三名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/task2-rank3.pptx)
 ## 文档检索
 - ###### 2010
   - [BioCreative III: IAT: Interactive Demostration Task for Gene Indexing and Retrieval](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-iii/iat/)
