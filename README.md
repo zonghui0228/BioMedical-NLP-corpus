@@ -292,7 +292,7 @@ Biomedical NLP realeted corpus collection from papers, challenges, and open sour
 - ###### 2019
   
   - [BioNLP-OST 2019 CRAFT-CR task: Coreference Resolution Task](https://sites.google.com/view/craft-shared-task-2019/craft-cr)
-## 句子分析
+## 文本分析
 ### 文本分类
 - ###### 2006
   
