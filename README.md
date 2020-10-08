@@ -322,11 +322,15 @@ Biomedical NLP realeted corpus collection from papers, challenges, and open sour
     > 主要目标是针对中文的真实患者健康咨询语料，进行问句意图匹配。给定两个语句，要求判定两者意图是否相同或者相近。所有语料来自互联网上患者真实的问题，并经过了筛选和人工的意图匹配标注。
     >
     > 训练集：20000条左右标注好的数据，经过脱敏处理。测试集：10000条左右，不含标注。
+    >
+    > **解决方案**：[第一名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2018_top3/1st_team_DUTIR.pdf)，[第二名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2018_top3/2nd_team_deadline%20.pdf)，[第三名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2018_top3/3rd_team_chip2018-%E6%B9%96%E4%BA%BA%E6%80%BB%E5%86%A0%E5%86%9B%40InplusLab.pdf)
 - ###### 2019
   - [CHIP 2019 评测二：平安医疗科技疾病问答迁移学习比赛](http://www.cips-chip.org.cn:8088/evaluation)
     > 本次评测任务的主要目标是针对中文的疾病问答数据，进行病种间的迁移学习。具体而言，给定来自5个不同病种的问句对，要求判定两个句子语义是否相同或者相近。所有语料来自互联网上患者真实的问题，并经过了筛选和人工的意图匹配标注。病种包括：`diabetes`，`hypertension`，`hepatitis`，`aids`，`breast cancer`。
     >
     > 训练集，数据量分别为：10000，2500，2500，2500，2500。验证集，数据量分别为：2000，2000，2000，2000，2000。测试集，数据量为50000
+    >
+    > **解决方案**：[第一名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC1%E5%90%8D-%E5%9F%BA%E4%BA%8EBERT%E4%B8%8E%E6%8F%90%E5%8D%87%E6%A0%91%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%AD%E4%B9%89%E5%8C%B9%E9%85%8D%E6%96%B9%E6%B3%95-wzm.pptx)，[第二名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC2%E5%90%8D-%EF%BC%88upside-down%E5%9B%A2%E9%98%9F%EF%BC%89%E5%B9%B3%E5%AE%89%E5%8C%BB%E7%96%97%E7%A7%91%E6%8A%80%E7%96%BE%E7%97%85%E9%97%AE%E7%AD%94%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E6%AF%94%E8%B5%9B-%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A.pptx)，[第三名](https://github.com/ShuaichiLi/Chinese-sentence-similarity-task/blob/master/CHIP2019_top3/%E8%AF%84%E6%B5%8B2-%E7%AC%AC3%E5%90%8D-CHIPS_%E4%BB%BB%E5%8A%A1%E4%BA%8C_%E8%AF%84%E6%B5%8B%E6%8A%A5%E5%91%8A.pptx)
 ## 文档检索
 - ###### 2010
   - [BioCreative III: IAT: Interactive Demostration Task for Gene Indexing and Retrieval](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-iii/iat/)
@@ -351,7 +355,7 @@ Biomedical NLP realeted corpus collection from papers, challenges, and open sour
   - [CCIR 2019 评测： 基于电子病历的数据查询类问答](http://ir.fzu.edu.cn/ccir2019/test.html)
     > 给定医疗知识图谱、医疗事件图谱和一系列自然语言问题，参赛者返回问题结果。
     >
-    > [病人事件图谱数据集](http://openkg.cn/dataset/peg)
+    > [病人事件图谱数据集下载](http://openkg.cn/dataset/peg)
     >
     > 训练数据：**1800**条自然语言问句，SPARQL查询语句，以及答案。验证数据：**600**条自然语言问句，SPARQL查询语句，以及答案。测试数据：**600**条自然语言问句。
   - [PubMedQA: A Dataset for Biomedical Research Question Answering](https://pubmedqa.github.io/)
