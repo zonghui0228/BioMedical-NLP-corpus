@@ -164,7 +164,18 @@ Biomedical NLP realeted corpus collection from papers, challenges, and open sour
 
 ### 关系抽取
 
+- ###### 2004
+  
+  - [GAD Gene-Disease Associations](https://maayanlab.cloud/Harmonizome/dataset/GAD+Gene-Disease+Associations)
+  
+    > Gene-disease associations curated from genetic association studies.
+    >
+    > 10697 genes, 12774 diseases, 74928 gene-disease associations
+    >
+    > **[paper](https://www.nature.com/articles/ng0504-431)**
+  
 - ###### 2006
+  
   - [BioCreative II Task 2: Protein-Protein Interactions](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-ii/task-2-protein-protein-interac/)
     
     > focuses on the prediction of **protein interactions** from full text articles.
