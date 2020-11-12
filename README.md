@@ -4,7 +4,6 @@
 >
 > Biomedical NLP realeted corpus collection from papers, challenges, and open source, both Chinese and English.
 >
-> <img src="https://visitor-badge.laobi.icu/badge?page_id=zonghui0228.BioMedical-NLP-corpus" alt="visitor badge"/>
 
 ***
 
@@ -392,8 +391,12 @@
 
 - ###### BERTCNER: Chinese clinical named entity recognition (CNER) using pre-trained BERT model
   > **[paper](https://doi.org/10.1016/j.jbi.2020.103422)**        **[github](https://github.com/lxy444/bertcner)**
+
+- ###### BlueBERT: pre-trained on PubMed abstracts and clinical notes (MIMIC-III)
+  > **[paper](https://arxiv.org/abs/1906.05474)**        **[github](https://github.com/ncbi-nlp/bluebert)**
+  
 ## 其他
 
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zonghui0228.BioMedical-NLP-corpus" alt="visitor badge"/>
 
 
