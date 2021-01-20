@@ -333,7 +333,7 @@
     >
     > **解决方案**：[第一名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task3-rank1.pdf)，[第二名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task3-rank2.pdf)，[第三名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task3-rank3.pdf)
     >
-    > [**数据下载链接**](https://github.com/zonghui0228/chip2019task3)
+    > [**paper**](http://dx.doi.org/10.7507/1001-5515.202006035)        [**数据下载链接**](https://github.com/zonghui0228/chip2019task3)
 ### 双句相似度分析
 - ###### 2018
   - [CHIP 2018 评测二：平安医疗科技智能患者健康咨询问句匹配大赛](http://icrc.hitsz.edu.cn/chip2018/Task.html)
