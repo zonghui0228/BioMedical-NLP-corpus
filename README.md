@@ -30,6 +30,14 @@
 - [中文医疗信息处理挑战榜](https://tianchi.aliyun.com/specials/promotion/2021chinesemedicalnlpleaderboardchallenge)
 
   > 中文医疗信息处理挑战榜CBLUE(Chinese Biomedical Language Understanding Evaluation)是中国中文信息学会医疗健康与生物信息处理专业委员会在合法开放共享的理念下发起，由阿里云天池平台承办，并由医渡云（北京）技术有限公司、平安医疗科技、北京大学、郑州大学、鹏城实验室、哈尔滨工业大学(深圳）、同济大学、夸克、阿里巴巴达摩院等开展智慧医疗研究的单位共同协办，旨在推动中文医学NLP技术和社区的发展。   榜单在设计上综合考虑了任务类型和任务难度两个维度，目标是建设一个任务类型覆盖广、同时也要保证任务的难度的benchmark，因此榜单在吸收往届CHIP学术评测的同时也适当增加了业界数据集，业务数据集的特点是数据真实且有噪音，对模型的鲁棒性提出了更高的要求。一期榜单任务包括医学文本信息抽取（实体识别、关系抽取）、医学术语归一化、医学文本分类、医学句子关系判定和医学QA共5大类任务8个子任务。
+  >
+  >  **[paper](https://arxiv.org/abs/2106.08087)**        **[github](https://github.com/CBLUEbenchmark/CBLUE)**        [**website**](https://tianchi.aliyun.com/specials/promotion/2021chinesemedicalnlpleaderboardchallenge)
+
+- BLURB
+
+  > **BLURB** is the **B**iomedical **L**anguage **U**nderstanding and **R**easoning **B**enchmark. A collection of resources for biomedical natural language processing.
+  >
+  > **[paper](https://arxiv.org/abs/2007.15779)**        [**website**](https://microsoft.github.io/BLURB/)
 
 - TBD
 
@@ -171,7 +179,7 @@
     
     > 主要目标是针对中文电子病历中挖掘出的真实`手术实体`进行语义标准化。给定一手术原词，要求给出其对应的手术标准词。所有手术原词均来自于真实医疗数据，并以《ICD9-2017协和临床版》 手术词表为标准进行了标注。训练集数据量：**4000**条。验证集数据量：**1000**条。测试集数据量：**2000**条。
     >
-    > **解决方案**：[第一名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task1-rank1.pdf)，[第二名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task1-rank2.pdf)，[第三名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task1-rank3.pdf)
+    > **解决方案**：[第一名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task1-rank1.pdf)，[第二名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task1-rank2.pdf)，[第三名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task1-rank3.pdf)
     
   - [2019 n2c2 Track 3: n2c2/UMass Track on Clinical Concept Normalization](https://portal.dbmi.hms.harvard.edu/projects/n2c2-2019-t3/)
   
@@ -345,9 +353,9 @@
     >
     > 训练集：22962；验证集：7682；测试集：7697。
     >
-    > **解决方案**：[第一名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task3-rank1.pdf)，[第二名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task3-rank2.pdf)，[第三名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task3-rank3.pdf)
+    > **解决方案**：[第一名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task3-rank1.pdf)，[第二名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task3-rank2.pdf)，[第三名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task3-rank3.pdf)
     >
-    > [**paper**](http://dx.doi.org/10.7507/1001-5515.202006035)        [**数据下载链接**](https://github.com/zonghui0228/chip2019task3)
+    > [**paper**](http://dx.doi.org/10.7507/1001-5515.202006035)
 ### 双句相似度分析
 - ###### 2018
   - [CHIP 2018 评测二：平安医疗科技智能患者健康咨询问句匹配大赛](http://icrc.hitsz.edu.cn/chip2018/Task.html)
@@ -362,7 +370,7 @@
     >
     > 训练集，数据量分别为：10000，2500，2500，2500，2500。验证集，数据量分别为：2000，2000，2000，2000，2000。测试集，数据量为50000
     >
-    > **解决方案**：[第一名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task2-rank1.pdf)，[第二名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task2-rank2.pdf)，[第三名](https://github.com/zonghui0228/BioMedical-NLP-corpus/blob/main/chip2019/chip2019-task2-rank3.pdf)
+    > **解决方案**：[第一名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task2-rank1.pdf)，[第二名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task2-rank2.pdf)，[第三名](https://github.com/zonghui0228/chip2019task3/blob/main/slides/chip2019-task2-rank3.pdf)
 ## 文档检索
 - ###### 2010
   - [BioCreative III: IAT: Interactive Demostration Task for Gene Indexing and Retrieval](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-iii/iat/)
