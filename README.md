@@ -407,9 +407,6 @@
     
     > 四个子任务：1）新冠百科知识图谱类型推断， 2）新冠概念图谱的上下位关系预测，3）新冠科研抗病毒药物图谱的链接预测，4）新冠百科知识图谱问答评测。
 ## 预训练语言模型
-- ###### SciBERT: A Pretrained Language Model for Scientific Text
-  > **[paper](https://arxiv.org/abs/1903.10676)**        [**github**](https://github.com/allenai/scibert)
-
 - ###### BioBERT: a pre-trained biomedical language representation model for biomedical text mining
   > **[paper](https://academic.oup.com/bioinformatics/article/36/4/1234/5566506)**        **[github](https://github.com/dmis-lab/biobert)**
 
@@ -419,6 +416,12 @@
 - ###### BlueBERT: pre-trained on PubMed abstracts and clinical notes (MIMIC-III)
   > **[paper](https://arxiv.org/abs/1906.05474)**        **[github](https://github.com/ncbi-nlp/bluebert)**
   
+- ###### ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission)
+  > **[paper](https://arxiv.org/abs/1904.05342)**        **[github](https://github.com/kexinhuang12345/clinicalBERT)**
+
+- ###### SciBERT: A Pretrained Language Model for Scientific Text
+  > **[paper](https://arxiv.org/abs/1903.10676)**        [**github**](https://github.com/allenai/scibert)
+
 ## 其他
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zonghui0228.BioMedical-NLP-corpus" alt="visitor badge"/>
