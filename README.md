@@ -1,8 +1,8 @@
 # Biomedical NLP Corpus Collection
 
-> 生物医学领域，自然语言处理相关的数据集收集，包括中英文。
+> 生物医学自然语言处理相关的数据集。
 >
-> Biomedical NLP realeted corpus collection from papers, shared tasks, and open source, both Chinese and English.
+> Biomedical NLP resources from papers and conferences.
 >
 
 ***
@@ -416,8 +416,11 @@
 - ###### BlueBERT: pre-trained on PubMed abstracts and clinical notes (MIMIC-III)
   > **[paper](https://arxiv.org/abs/1906.05474)**        **[github](https://github.com/ncbi-nlp/bluebert)**
   
-- ###### ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission)
+- ###### ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission
   > **[paper](https://arxiv.org/abs/1904.05342)**        **[github](https://github.com/kexinhuang12345/clinicalBERT)**
+
+- ###### LinkBERT: Pretraining Language Models with Document Links
+  > **[paper](https://arxiv.org/abs/2203.15827)**        **[github](https://github.com/michiyasunaga/LinkBERT)**
 
 - ###### SciBERT: A Pretrained Language Model for Scientific Text
   > **[paper](https://arxiv.org/abs/1903.10676)**        [**github**](https://github.com/allenai/scibert)
