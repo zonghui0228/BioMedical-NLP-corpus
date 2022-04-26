@@ -425,6 +425,9 @@
 - ###### SciBERT: A Pretrained Language Model for Scientific Text
   > **[paper](https://arxiv.org/abs/1903.10676)**        [**github**](https://github.com/allenai/scibert)
 
+- ###### PubMedBERT: Domain-Specific Language Model Pretraining for Biomedical Natural Language Processing
+  > **[paper](https://arxiv.org/abs/2007.15779)**        [**website**](https://microsoft.github.io/BLURB/index.html)
+
 ## 其他
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=zonghui0228.BioMedical-NLP-corpus" alt="visitor badge"/>
